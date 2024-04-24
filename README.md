@@ -10,6 +10,9 @@ Embrace the thrilling experience of witnessing autonomous agents engage in an au
 
 <img src = "/static/env.png">
 
+## Game Video On Youtube
+[![AGI Game Video](https://img.youtube.com/vi/q1weLwLNo3o/0.jpg)](https://www.youtube.com/watch?v=q1weLwLNo3o)
+
 ## OtsukaAGI - Agent Attributes:
 
 1. **Memory**: This component is based on the modified GameGenerativeMemory class inherited from Langchain.
